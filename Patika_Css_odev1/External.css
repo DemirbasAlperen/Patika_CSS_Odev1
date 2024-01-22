@@ -22,9 +22,12 @@ p {
 h3 {
     color:aliceblue;
     font-size: 28px;
+    text-align: center;
 }
 
 li {
+    list-style-position: inside;
+    text-align: center;
     color: aliceblue;
     font-size: 20px;
     margin: 10px;
